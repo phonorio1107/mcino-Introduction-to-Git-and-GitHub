@@ -15,4 +15,4 @@ Output
 
 _© 2022 XYZ, Inc._
 
-:)
+Fixing typo for merge test.
